@@ -1,4 +1,4 @@
-### Hi, I’m [Dhirendra Srivastava][website] 👋
+### Hi, I’m [Dhirendra Srivastava](https://dhirendrasrivastav007.github.io/Dhirendra-Srivastava-Portfolio/) 👋
 ## Im a Data Scientist, Trainer, Mathematician and Developer 
 - Im Currently workinng As as Data Science Trainer 
 - I’m currently learning and enchancing my skills in Deep learning, LSTM, CNN, BERT models, Transformers, encoders-decoders... Literally eveything related to Data Science
